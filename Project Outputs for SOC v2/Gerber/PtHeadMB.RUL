@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: D:\Škola\sOC v2\dps - Copy\PtHeadMB.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_2|Scope=Board|Minimum=-39.37
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=VIN-all|Scope=Board|Minimum=6.69
+RuleKind=Clearance|RuleName=Stitching GND|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.48
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=7.09
