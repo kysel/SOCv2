@@ -98,11 +98,11 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VWNOALLL
+DocumentUniqueId=BROGEEBL
 
 [Document5]
 DocumentPath=C:\Users\Public\Documents\Altium\AD14\Examples\Sheet1.Harness
